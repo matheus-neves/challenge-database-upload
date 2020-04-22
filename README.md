@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#rocket-about-the-challenge">About the Challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>
 </p>
@@ -13,6 +14,15 @@
 ## :rocket: About the Challenge
 
 Application that stores incoming and outgoing financial transactions, allowing the registration and listing of these transactions, in addition to allowing the creation of new records in the database by sending a csv file.
+
+### Technologies
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Multer](https://github.com/expressjs/multer)
+- [CSV Parser](https://csv.js.org/parse/)
+- [Typescript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/#/)
 
 ### Routes
 
